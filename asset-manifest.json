@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bilalusuf93/react-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Bilalusuf93/react-gh-pages/static/js/main.19621b29.chunk.js",
+    "main.js.map": "/Bilalusuf93/react-gh-pages/static/js/main.19621b29.chunk.js.map",
+    "runtime-main.js": "/Bilalusuf93/react-gh-pages/static/js/runtime-main.1511391a.js",
+    "runtime-main.js.map": "/Bilalusuf93/react-gh-pages/static/js/runtime-main.1511391a.js.map",
+    "static/js/2.33af256b.chunk.js": "/Bilalusuf93/react-gh-pages/static/js/2.33af256b.chunk.js",
+    "static/js/2.33af256b.chunk.js.map": "/Bilalusuf93/react-gh-pages/static/js/2.33af256b.chunk.js.map",
+    "index.html": "/Bilalusuf93/react-gh-pages/index.html",
+    "precache-manifest.18d7bb7caca8be1e128408c01a454da8.js": "/Bilalusuf93/react-gh-pages/precache-manifest.18d7bb7caca8be1e128408c01a454da8.js",
+    "service-worker.js": "/Bilalusuf93/react-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Bilalusuf93/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.33af256b.chunk.js.LICENSE.txt": "/Bilalusuf93/react-gh-pages/static/js/2.33af256b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Bilalusuf93/react-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1511391a.js",
+    "static/js/2.33af256b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.19621b29.chunk.js"
+  ]
+}
